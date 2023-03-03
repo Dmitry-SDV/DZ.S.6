@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Ucheba\DZ_S_6\obj\Debug\net7.0\DZ_S_6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Ucheba\DZ_S_6\obj\Debug\net7.0\DZ_S_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Ucheba\DZ_S_6\obj\Debug\net7.0\DZ_S_6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Ucheba\DZ_S_6\obj\Debug\net7.0\DZ_S_6.AssemblyInfo.cs
+C:\Users\User\Desktop\Ucheba\DZ_S_6\obj\Debug\net7.0\DZ_S_6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Ucheba\DZ_S_6\bin\Debug\net7.0\DZ_S_6.exe
+C:\Users\User\Desktop\Ucheba\DZ_S_6\bin\Debug\net7.0\DZ_S_6.deps.json
+C:\Users\User\Desktop\Ucheba\DZ_S_6\bin\Debug\net7.0\DZ_S_6.runtimeconfig.json
+C:\Users\User\Desktop\Ucheba\DZ_S_6\bin\Debug\net7.0\DZ_S_6.dll
+C:\Users\User\Desktop\Ucheba\DZ_S_6\bin\Debug\net7.0\DZ_S_6.pdb
+C:\Users\User\Desktop\Ucheba\DZ_S_6\obj\Debug\net7.0\DZ_S_6.dll
+C:\Users\User\Desktop\Ucheba\DZ_S_6\obj\Debug\net7.0\refint\DZ_S_6.dll
+C:\Users\User\Desktop\Ucheba\DZ_S_6\obj\Debug\net7.0\DZ_S_6.pdb
+C:\Users\User\Desktop\Ucheba\DZ_S_6\obj\Debug\net7.0\DZ_S_6.genruntimeconfig.cache
+C:\Users\User\Desktop\Ucheba\DZ_S_6\obj\Debug\net7.0\ref\DZ_S_6.dll
